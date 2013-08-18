@@ -1,0 +1,21 @@
+
+.logo-title{
+  background: url("../img/title.png") no-repeat scroll center transparent;
+  height: 200px;
+  width: 350px;
+  margin: 0 auto;
+}
+.white{ color:WHITE; }
+.text-center{ text-align:center; }
+.footer-fixed{
+  bottom:0;
+  position:fixed;
+  height:50px;
+  width:100%;
+  text-align:center;
+}
+.reachability{
+  height:60px;
+  width:100%;
+  background: url("../img/head.png") no-repeat top center transparent;
+}
